@@ -8,7 +8,7 @@ description: Where to get the FUSD stablecoin on Flow
 
 ### BloctoSwap
 
-[BloctoSwap](https://swap.blocto.app/), 
+BloctoSwap, 
 a decentralized exchange (DEX) on Flow,
 provides FUSD-FLOW and FUSD-tUSDT trading pairs. 
 You can exchange tUSDT or FLOW for FUSD, and vice versa, 
@@ -16,7 +16,7 @@ FUSD can be exchanged for tUSDT or FLOW.
 
 tUSDT is an intermediate token used by BloctoSwap to facilitate USDT (Tether) trading.
 For more information on BloctoSwap and tUSDT, 
-[please read the BloctoSwap FAQ](https://guide.blocto.app/article/bloctoswap-intro-faq).
+please read the BloctoSwap FAQ.
 
 ### Ramp
 
@@ -25,7 +25,7 @@ widget that can be embedded directly into your application,
 allowing your users to purchase FUSD with a variety of payment options
 including credit card.
 
-[Users will need an FUSD-enabled wallet](/fusd/#how-do-i-get-an-fusd-enabled-wallet) 
+[Users will need an FUSD-enabled wallet](#how-do-i-get-an-fusd-enabled-wallet) 
 to purchase FUSD through Ramp. 
 
 ---
@@ -35,7 +35,7 @@ to purchase FUSD through Ramp.
 ### Blocto Swap
 
 FUSD is available on Testnet through the 
-[Blocto Swap decentralized exchange](https://swap-testnet.blocto.app/) (DEX).
+Blocto Swap decentralized exchange (DEX).
 
 You can exchange Testnet FLOW for 
 Testnet FUSD using a Blocto wallet.

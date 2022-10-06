@@ -29,14 +29,14 @@ A mock version of FUSD is live on Flow Testnet for development purposes.
 Testnet FUSD is not backed by any real USD and is available
 only for testing purposes.
 
-To add FUSD to your app on Testnet, use the [standard transactions and scripts](/fusd/transactions) with the
+To add FUSD to your app on Testnet, use the [standard transactions and scripts](transactions) with the
 Testnet contract addresses.
 
 ### FUSD on Flow Mainnet
 
-FUSD is made available on Mainnet through [several providers](/fusd/providers/#mainnet).
+FUSD is made available on Mainnet through [several providers](providers/#mainnet).
 
-To add FUSD to your app on Mainnet, use the [standard transactions and scripts](/fusd/transactions) with the
+To add FUSD to your app on Mainnet, use the [standard transactions and scripts](transactions) with the
 Mainnet contract addresses.
 
 ---
@@ -66,16 +66,16 @@ and select "Configure" in the "FUSD Balance" panel.
 
 #### For Developers
 
-Use the [FUSD setup transaction](/fusd/transactions/#setup-fusd-vault--receiver)
+Use the [FUSD setup transaction](transactions/#setup-fusd-vault--receiver)
 to manually configure a Flow account to hold FUSD.
 
 ### Where can my users purchase FUSD?
 
-See the [providers](/fusd/providers/) page for available FUSD providers.
+See the [providers](providers.md) page for available FUSD providers.
 
 ### How do I sell FUSD for fiat?
 
-See the [providers](/fusd/providers/) page for available FUSD providers.
+See the [providers](./providers) page for available FUSD providers.
 
 ### Does the Flow Ledger app support FUSD?
 
