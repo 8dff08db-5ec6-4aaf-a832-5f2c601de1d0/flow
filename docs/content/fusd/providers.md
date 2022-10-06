@@ -25,7 +25,7 @@ widget that can be embedded directly into your application,
 allowing your users to purchase FUSD with a variety of payment options
 including credit card.
 
-[Users will need an FUSD-enabled wallet](/fusd/#how-do-i-get-an-fusd-enabled-wallet) 
+[Users will need an FUSD-enabled wallet](#how-do-i-get-an-fusd-enabled-wallet) 
 to purchase FUSD through Ramp. 
 
 ---
