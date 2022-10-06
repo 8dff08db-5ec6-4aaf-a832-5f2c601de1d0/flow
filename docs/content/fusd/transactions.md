@@ -8,7 +8,7 @@ description: Transaction templates for the FUSD stablecoin on Flow
 
 The `FUSD` contract defines the Flow USD stablecoin token.
 
-FUSD implements the standard [FungibleToken](/core-contracts/fungible-token/)
+FUSD implements the standard [FungibleToken](https://developers.flow.com/flow/core-contracts/fungible-token)
 contract interface on Flow.
 
 | Network  | Contract Address     |
